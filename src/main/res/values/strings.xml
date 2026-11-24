@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_name">Elish 小米手写笔桥接</string>
+    <string name="module_desc">让 ColorOS 智能外设识别小米二代手写笔，并桥接笔按键与全局批注开关</string>
+</resources>
